@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/90_Minutes_Sleep_Cycle/static/css/main.3563c667.chunk.css",
+    "main.js": "/90_Minutes_Sleep_Cycle/static/js/main.5d751795.chunk.js",
+    "main.js.map": "/90_Minutes_Sleep_Cycle/static/js/main.5d751795.chunk.js.map",
+    "runtime-main.js": "/90_Minutes_Sleep_Cycle/static/js/runtime-main.4d1a1885.js",
+    "runtime-main.js.map": "/90_Minutes_Sleep_Cycle/static/js/runtime-main.4d1a1885.js.map",
+    "static/css/2.4c6ee7a4.chunk.css": "/90_Minutes_Sleep_Cycle/static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.84811785.chunk.js": "/90_Minutes_Sleep_Cycle/static/js/2.84811785.chunk.js",
+    "static/js/2.84811785.chunk.js.map": "/90_Minutes_Sleep_Cycle/static/js/2.84811785.chunk.js.map",
+    "index.html": "/90_Minutes_Sleep_Cycle/index.html",
+    "precache-manifest.7fce0aaac6a418768a19c0372a5d7e94.js": "/90_Minutes_Sleep_Cycle/precache-manifest.7fce0aaac6a418768a19c0372a5d7e94.js",
+    "service-worker.js": "/90_Minutes_Sleep_Cycle/service-worker.js",
+    "static/css/2.4c6ee7a4.chunk.css.map": "/90_Minutes_Sleep_Cycle/static/css/2.4c6ee7a4.chunk.css.map",
+    "static/css/main.3563c667.chunk.css.map": "/90_Minutes_Sleep_Cycle/static/css/main.3563c667.chunk.css.map",
+    "static/js/2.84811785.chunk.js.LICENSE.txt": "/90_Minutes_Sleep_Cycle/static/js/2.84811785.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d1a1885.js",
+    "static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.84811785.chunk.js",
+    "static/css/main.3563c667.chunk.css",
+    "static/js/main.5d751795.chunk.js"
+  ]
+}
