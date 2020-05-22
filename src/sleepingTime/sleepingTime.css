@@ -1,0 +1,26 @@
+.container {
+  width: 380px;
+  margin: 20px auto;
+}
+
+.time-input-wrap {
+  display: flex;
+  width: 100%;
+}
+.time-input-wrap .update-btn {
+  height: auto;
+}
+.timeInput {
+  flex: 1;
+}
+
+.wakeUp-wrap {
+  margin: 20px 0;
+}
+
+.wakeUp-wrap .wakeUp-content{
+    font-size: 18px;
+}
+.wakeUp-wrap .wakeUp-content>div{
+    margin-top: 5px;
+}
